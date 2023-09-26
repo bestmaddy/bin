@@ -1,0 +1,19 @@
+{
+  "name": "task_management_app",
+  "version": "1.0.0",
+  "description": "The app should allow users to create,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mandee Wadekar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.33.0"
+  }
+}
